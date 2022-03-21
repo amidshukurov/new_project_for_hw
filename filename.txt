@@ -1,0 +1,2 @@
+echo "text to add" >> fileName This command adds text to available file
+yet another line
